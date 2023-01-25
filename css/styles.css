@@ -1,0 +1,142 @@
+a {
+  color: #BBE1FA;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  background-color: #BBE1FA;;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #0F4C75;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.6em;
+  line-height: 2;
+  margin: 50px auto 0;
+}
+
+h2 {
+  color: #0F4C75;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  border-color: #eaf6f6;
+  width: 7%;
+}
+
+.bottom-container {
+  background-color: #3282B8;
+  padding: 10px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 15%;
+  bottom: 40%;
+}
+
+.contact-me {
+  padding: 20px;
+  margin: 30px 0 0;
+}
+
+.copyright-message {
+  color: #1B262C;
+  font-size: .75rem;
+  margin: 20px 0;
+}
+
+.handshake-icon {
+  float: left;
+  margin: 30px;
+  width: 25%;
+}
+
+.middle-container {
+  margin: 100px 0;
+  color: #1B262C;
+}
+
+.btn {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+  margin-top: 10px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.pfp-icon {
+  width: 25%;
+}
+
+.profile {
+  line-height: 2;
+  margin-bottom: 100px;
+  padding: 2.5%;
+}
+
+.programming-icon {
+  float: right;
+  margin: 30px;
+  margin-bottom: 40px;
+  width: 25%;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto;
+  text-align: left;
+  width: 80%;
+}
+
+.skills {
+  margin: 100px 0;
+}
+
+.top-container {
+  background-color: #1B262C;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 15%;
+  top: 6%;
+}
